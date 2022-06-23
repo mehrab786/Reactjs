@@ -26,6 +26,9 @@ import './App.css';
                <button onClick={incNum}>Increment</button>
             
                <button onClick={decNum}>Decrement</button>
+
+
+               <button onClick={decNum}>Decrement</button>
           </div>
         </div>
 

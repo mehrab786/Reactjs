@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300&display=swap');
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #d2dbdd;
+}
+.heading_style{
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Raleway",sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color: #fff;
+  font-size: 1.5rem;
+  
+}
+.slot_inner{
+  padding: 3%;
+  width:100%;
+  
+ /* box-sizing: content-box;
+  border: 5px;
+  border-color: aqua;
+  justify-content: center;
+  padding-top: 5px ;
+  padding-left: 200px;
+  padding-right: 300px; */
+}
+.slotm{
+  
+  margin: auto;
+  margin-top: 70px;
+  width: 30%;
+  border: 2.5px solid grey;
+  padding:20px; 
+  text-align: center;
+}
